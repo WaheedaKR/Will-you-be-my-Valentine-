@@ -49,3 +49,22 @@ body {
     border-radius: 10px;
     margin-top: 20px;
   }
+
+.video-container {
+  text-align: center;  /* centers the video */
+  margin: 20px auto;
+}
+
+.video-container video {
+  width: 300px;       /* adjust as needed */
+  max-width: 90%;     /* responsive for mobile */
+  height: auto;
+  display: inline-block;
+  border-radius: 12px; 
+}
+
+.extra_text {
+  text-align: center;
+  font-size: 1.2rem;
+  margin-top: 15px;
+}
