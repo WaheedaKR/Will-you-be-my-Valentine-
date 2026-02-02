@@ -54,16 +54,15 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
+    "Are you sure? 凸( •̀_•́ )凸 ",
+    "Really sure?? 凸( •̀_•́ )凸 ",
+    "Really fiance? 凸( •̀_•́ )凸 ",
     "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "If you say no, I will be really sad... 凸( •̀_•́ )凸 ",
+    "I will be very sad... 凸( •̀_•́ )凸 ",
+    "I will be very very very sad... 凸( •̀_•́ )凸 ",
+    "Ok fine, I will stop asking... 凸( •̀_•́ )凸 ",
+    "Just kidding, you have no choice. Say yes please! ❤️"
 ];
 
 let messageIndex = 0;
