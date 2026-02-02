@@ -22,3 +22,15 @@ body {
     max-width: 500px; 
     height: auto; 
 }
+.video-container {
+  text-align: center;  /* centers the video */
+  margin: 20px auto;
+}
+
+.video-container video {
+  width: 300px;        /* adjust size as you like */
+  max-width: 90%;      /* mobile-friendly */
+  height: auto;
+  display: inline-block;
+  border-radius: 12px; /* optional for rounded corners */
+}
